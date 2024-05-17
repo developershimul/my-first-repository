@@ -18,20 +18,14 @@
   justify-content: space-between;
   align-items: center;
 }
-.logo {
-}
 .logo a {
   color: #fff;
   font-size: 32px;
   text-decoration: none;
 }
-.menu {
-}
 .menu ul {
   display: flex;
   gap: 32px;
-}
-.menu ul li {
 }
 .menu ul li a {
   text-decoration: none;
